@@ -1,0 +1,3 @@
+#!/bin/sh
+
+make HOSTCC="gcc-12" CC="gcc-12" menuconfig
